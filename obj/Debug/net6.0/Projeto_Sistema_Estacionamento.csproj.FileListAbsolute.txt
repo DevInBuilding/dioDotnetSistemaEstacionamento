@@ -1,0 +1,15 @@
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\bin\Debug\net6.0\Projeto_Sistema_Estacionamento.exe
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\bin\Debug\net6.0\Projeto_Sistema_Estacionamento.deps.json
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\bin\Debug\net6.0\Projeto_Sistema_Estacionamento.runtimeconfig.json
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\bin\Debug\net6.0\Projeto_Sistema_Estacionamento.dll
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\bin\Debug\net6.0\Projeto_Sistema_Estacionamento.pdb
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\Projeto_Sistema_Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\Projeto_Sistema_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\Projeto_Sistema_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\Projeto_Sistema_Estacionamento.AssemblyInfo.cs
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\Projeto_Sistema_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\Projeto_Sistema_Estacionamento.dll
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\refint\Projeto_Sistema_Estacionamento.dll
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\Projeto_Sistema_Estacionamento.pdb
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\Projeto_Sistema_Estacionamento.genruntimeconfig.cache
+C:\Users\Usuário\formacao-dotnet-developer-dio\Projeto_Sistema_Estacionamento\obj\Debug\net6.0\ref\Projeto_Sistema_Estacionamento.dll
